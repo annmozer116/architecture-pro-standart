@@ -27,11 +27,11 @@
 
 ### <a name="_qmphm5d6rvi3"></a>**Решение**
 Приведите диаграммы контекста и контейнеров в модели C4. Опишите там основные компоненты и интеграции всех элементов решения. 
-[CD диаграмма](Task4/Task4-CD.drawio.png)
+[CD диаграмма](/Task4/Task4-CD.drawio.png)
 
-[C2 диаграмма](Task4/Task4-C2.drawio.png)
+[C2 диаграмма](/Task4/Task4-C2.drawio.png)
 
-[Road map PDF](Task4/RoadMap_bank_Standart.drawio.pdf)
+[Road map PDF](/Task4/RoadMap_bank_Standart.drawio.pdf)
 
 1. Для интеграции с системой партнерского кол-центра используется механизм передачи данных через защищенную почту
 2. Для интеграции с внутренней системой кол-центра используется протокол HTTPS
